@@ -2,6 +2,6 @@ public class testgit {
     public testgit(){
 
     }
-    select name from account;
+    select name from account   ;
 
 }
